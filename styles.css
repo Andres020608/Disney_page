@@ -251,8 +251,6 @@
     font-weight: bold;
 }
 
-
-/* ==== COMING SOON ==== */
 .coming-soon {
     background-color: #f5f5f5;
     padding: 60px 80px;
@@ -265,8 +263,6 @@
     color: #000;
     text-transform: uppercase;
 }
-
-/* Contenedor de las películas */
 .coming-cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
